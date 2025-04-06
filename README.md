@@ -12,7 +12,7 @@
 - 💬 Ask me about **ASIC Design, RTL to GDSII Flow, Physical Design concepts, or Linux Scripting**
 - 💼 Portfolio: [Coming Soon]
 - 🔗 LinkedIn: [vattikula-revanth-kumar](https://www.linkedin.com/in/vattikula-revanth-kumar)
-- 📫 Reach me at: revanth@example.com
+- 📫 Reach me at: revanthkumar.vattikula@gmail.com
 
 ---
 
