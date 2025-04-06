@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Revanth Kumar Vattikula</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=revanthbz&label=Profile%20views&color=0e75b6&style=flat" alt="revanthbz" />
-</p>
+
 
 - 🎓 Graduate from **VNR Vignana Jyothi Institute of Engineering and Technology**, ECE Department  
 - ❤️ VLSI Enthusiast with a strong interest in **Physical Design (PD)**
